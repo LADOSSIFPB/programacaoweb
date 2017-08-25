@@ -1,0 +1,22 @@
+body {
+    font-family: verdana;
+}
+
+h1 {
+    border: 1px solid blue;    
+    color: brown;
+}
+
+p {
+    color: red;
+}
+
+.especial {
+    color: chartreuse;
+}
+
+header {
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-bottom-color: gainsboro;
+}
